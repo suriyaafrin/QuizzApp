@@ -1,0 +1,115 @@
+{
+   "category": "Web",
+    "questions": [
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlinks Text Mark Language",
+        "Hyper Tool Multi Language"
+      ],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "Which language is used for styling web pages?",
+      "options": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python"
+      ],
+      "answer": "CSS"
+    },
+    {
+      "id": 3,
+      "question": "Which JavaScript method selects an element by ID?",
+      "options": [
+        "getElementById()",
+        "querySelectorAll()",
+        "getElementsByClassName()",
+        "selectById()"
+      ],
+      "answer": "getElementById()"
+    },
+    {
+      "id": 4,
+      "question": "Which company developed JavaScript?",
+      "options": [
+        "Microsoft",
+        "Netscape",
+        "Google",
+        "Apple"
+      ],
+      "answer": "Netscape"
+    },
+    {
+      "id": 5,
+      "question": "Which symbol is used for single-line comments in JavaScript?",
+      "options": [
+        "//",
+        "##",
+        "<!-- -->",
+        "**"
+      ],
+      "answer": "//"
+    },
+    {
+      "id": 6,
+      "question": "Which HTML tag is used to insert an image?",
+      "options": [
+        "<img>",
+        "<image>",
+        "<src>",
+        "<picture>"
+      ],
+      "answer": "<img>"
+    },
+    {
+      "id": 7,
+      "question": "Which CSS property controls text size?",
+      "options": [
+        "font-style",
+        "text-size",
+        "font-size",
+        "text-style"
+      ],
+      "answer": "font-size"
+    },
+    {
+      "id": 8,
+      "question": "Which JavaScript keyword is used to declare a variable?",
+      "options": [
+        "var",
+        "int",
+        "string",
+        "define"
+      ],
+      "answer": "var"
+    },
+    {
+      "id": 9,
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": [
+        "<a>",
+        "<link>",
+        "<href>",
+        "<url>"
+      ],
+      "answer": "<a>"
+    },
+    {
+      "id": 10,
+      "question": "Which CSS property changes the background color?",
+      "options": [
+        "color",
+        "bgcolor",
+        "background-color",
+        "background-style"
+      ],
+      "answer": "background-color"
+    }
+  ]
+}
