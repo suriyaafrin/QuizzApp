@@ -106,8 +106,6 @@ fetch("./data/data.json")
 .then(data => {
 
     questions = data.questions;
-
-    // show first question
     showQuestion();
 
 });

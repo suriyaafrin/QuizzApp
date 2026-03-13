@@ -50,16 +50,7 @@ body{
     border-radius:10px;
     box-shadow:0 10px 20px rgba(0,0,0,0.1);
 }
-#nextBtn{
-    margin-top:20px;
-    padding:10px 20px;
-    font-size:16px;
-    background:#C08552;
-    color:white;
-    border:none;
-    border-radius:6px;
-    cursor:pointer;
-}
+
 .question{
     font-size:20px;
     font-weight:bold;
@@ -74,6 +65,16 @@ body{
     margin:8px 0;
     cursor:pointer;
     transition:0.3s;
+}
+#nextBtn{
+    margin-top:20px;
+    padding:10px 20px;
+    font-size:16px;
+    background:#C08552;
+    color:white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
 }
 
 .options:hover{
