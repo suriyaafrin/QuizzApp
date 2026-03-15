@@ -138,7 +138,6 @@ function showQuestion(){
 
             const allOptions = document.querySelectorAll(".options");
 
-            // disable options
             allOptions.forEach(opt=>{
                 opt.style.pointerEvents="none";
             });
@@ -184,7 +183,8 @@ nextBtn.addEventListener("click",()=>{
 
     }else{
 
-        quizeUiContainer.innerHTML = `<h2>Quiz Finished 🎉</h2>
+        quizeUiContainer.innerHTML =
+        `<h2>Quiz Finished 🎉</h2>
         <p>Your Score: ${userRightAnswers.length}/${questions.length}</p>`;
 
         nextBtn.style.display="none";
